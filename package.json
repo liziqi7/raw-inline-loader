@@ -1,0 +1,16 @@
+{
+  "name": "raw-plus-loader",
+  "version": "1.0.0",
+  "description": "raw plus loader module for webpack",
+  "main": "index.js", 
+  "repository": {
+    "type": "git",
+    "url": "git@github.com/liziqi7/raw-plus-loader.git"
+  },
+  "author": "liziqi7@qq.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liziqi7/raw-plus-loader/issues"
+  },
+  "homepage": "https://github.com/liziqi7/raw-plus-loader#readme"
+}
